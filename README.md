@@ -22,3 +22,9 @@ Monitoring Performance on Tensorboard:
 ## Model Evaluation
 - TestRoadDamageDatasetTutorial.ipynb
 
+The performance of the model was also measured on images extracted from Google Images
+![Detecting Faded Lane Markings](https://github.com/rxl204/RoadDefectTrainedModels/blob/master/SSD%20MobileNet%20Test%20Images/0_defects_output.jpg "lane")
+![Detecting Faded Crossing](https://github.com/rxl204/RoadDefectTrainedModels/blob/master/SSD%20MobileNet%20Test%20Images/1_defects_output.jpg "crossing")
+![Detecting Alligator Cracks/ Potholes](https://github.com/rxl204/RoadDefectTrainedModels/blob/master/SSD%20MobileNet%20Test%20Images/3_defects_output.jpg "alli")
+![alt_text](https://github.com/rxl204/RoadDefectTrainedModels/blob/master/SSD%20MobileNet%20Test%20Images/5_defects_output.jpg "pothole")
+
